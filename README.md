@@ -14,7 +14,6 @@ I am currently working as an AI software engineer at [ept.ai](ept.ai) in San Fra
 Some of my projects on GitHub...
 - 🧠 [Estimating Neural Orientation Distribution Fields for High Resolution Diffusion MRI Scans](https://github.com/MunzerDw/NODF-HashEnc)
 - 🤖 [Generating Context-Aware Natural Answers for Questions in 3D Scenes](https://github.com/MunzerDw/Gen3DQA)
-- 🕸️ [wickedproblems.io](https://github.com/MunzerDw/wicked-problems)
 
 Feel free to reach out...
 - 📧 [munzerdwedari@gmail.com](mailto:munzerdwedari@gmail.com)
